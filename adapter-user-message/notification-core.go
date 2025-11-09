@@ -1,0 +1,4 @@
+// Auto-generated file: /Users/kevinguoquan/Desktop/zama备用文件/测试/Zama项目/hideseek_z/adapter-user-message/notification-core.go
+// Generated at: 2025-11-27T12:25:21.282Z
+
+
